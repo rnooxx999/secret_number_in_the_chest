@@ -2,14 +2,13 @@
 
 guess 4 secret numbers to open the chest
 
+______________________
 
-Flutter application.
+-comments
+-Toast : fluttertoast
+-Dialog :slide_popup_dialog
 
-A few resources to get you started if this is your first Flutter project:
+![PXJZ2156](https://user-images.githubusercontent.com/51720992/88725446-cad9d700-d134-11ea-9b26-77331a9fe589.JPG)
+![ACLA2706](https://user-images.githubusercontent.com/51720992/88725458-cdd4c780-d134-11ea-83f4-fabbddf1397d.JPG)
+![LJBL2980](https://user-images.githubusercontent.com/51720992/88725461-ce6d5e00-d134-11ea-9057-f626f8394b80.JPG)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
